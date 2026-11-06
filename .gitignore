@@ -1,0 +1,13 @@
+__pycache__/
+.vscode/
+datasets/
+wandb/
+results/
+checkpoints/
+retrieval_database/
+Embeddings/
+TSRAG/
+logs/
+self_error_features/
+.auto-git-sync.log
+.auto-git-sync.lock/
